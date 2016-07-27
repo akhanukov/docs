@@ -14,7 +14,7 @@ If you do not have an existing account, you will need to sign up to create one. 
 
 ![](/media/articles/mfa/sign-up.png)
 
-Next, you will see the option to download the Auth0 Guardian app from either the [App Store](https://itunes.apple.com/us/app/auth0-guardian/id1093447833) or from [Google Play](https://play.google.com/store/apps/details?id=com.auth0.guardian). Underneath that, is there is the option to use [Google Authenticator](#google-authenticator) or [SMS](#sms) depending on the application's settings.
+Next, you will see the option to download the Auth0 Guardian app from either the [App Store](https://itunes.apple.com/us/app/auth0-guardian/id1093447833) or from [Google Play](https://play.google.com/store/apps/details?id=com.auth0.guardian). Underneath that, is the option to use [Google Authenticator](#google-authenticator) or [SMS](#sms) depending on the application's settings.
  
 ![](/media/articles/mfa/choose-mfa.png)
 
